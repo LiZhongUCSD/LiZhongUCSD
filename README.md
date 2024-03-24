@@ -1,4 +1,4 @@
-- 👋 Hi, I’m LiZhong@UCSD
+- 👋 Hi, I’m Li Zhong@UCSD
 - 👀 I’m interested in computer system reliability.
 - 📫 How to reach me: lizhong@ucsd.edu
 - 😄 Pronouns: She/Her/Hers
